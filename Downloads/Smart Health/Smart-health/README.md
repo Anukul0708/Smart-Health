@@ -1,4 +1,4 @@
-﻿# AI-Personal-Health-Assistant
+﻿# Smart Health – AI Health Assistant
 
 Data set links
 
