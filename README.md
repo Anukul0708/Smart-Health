@@ -81,12 +81,12 @@ Open the local URL displayed in the terminal to use the application.
 ## Dataset Links
 
 ### Chest X-ray Dataset
+drive link :- https://drive.google.com/drive/folders/12Gd2aoQ3Koo8IcSb8vGlPKzPbiFHfoQ5?usp=sharing
 
-[Open Chest X-ray Dataset on Google Drive](https://drive.google.com/drive/folders/12Gd2aoQ3Koo8IcSb8vGIPKzPbiFHfoQ5?usp=sharing)
 
 ### Skin Cancer Dataset
+drive link :- https://drive.google.com/drive/folders/12Gd2aoQ3Koo8IcSb8vGlPKzPbiFHfoQ5?usp=sharing
 
-[Open Skin Cancer Dataset on Google Drive](https://drive.google.com/drive/folders/12Gd2aoQ3Koo8IcSb8vGIPKzPbiFHfoQ5?usp=sharing)
 
 *Verify that each link points to the correct dataset folder before sharing this repository publicly.*
 
