@@ -33,7 +33,12 @@ prec.columns = prec.columns.str.strip()
 # Combine symptom columns
 symptom_cols = [c for c in df.columns if "Symptom" in c]
 df["All_Symptoms"] = df[symptom_cols].astype(str).apply(
-    lambda row: " ".join([s.replace(" ","_") for s in row if s != "nan"]), axis=1
+    lambda row: " ".join(
+        str(s).replace(" ", "_")
+        for s in row
+        if pd.notna(s) and str(s).lower() != "nan"
+    ),
+    axis=1
 )
 
 X = df["All_Symptoms"]
